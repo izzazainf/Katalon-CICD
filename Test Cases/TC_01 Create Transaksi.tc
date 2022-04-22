@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01 Create Transaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d24f8f76-bb06-4837-9836-a1594b5b395a</testCaseGuid>
+</TestCaseEntity>
